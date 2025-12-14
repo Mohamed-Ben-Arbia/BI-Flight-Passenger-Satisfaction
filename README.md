@@ -1,9 +1,5 @@
 # BI Flight Passenger Satisfaction Project
 
-## Course
-IT300 – Business Intelligence  
-Tunis Business School
-
 ## Project Description
 This project develops a full Business Intelligence (BI) solution to analyze airline passenger satisfaction data.
 The objective is to identify key drivers of satisfaction, track performance KPIs, and support data-driven decision making.
