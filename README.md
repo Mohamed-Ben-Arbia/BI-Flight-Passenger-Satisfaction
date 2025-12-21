@@ -23,5 +23,4 @@ The objective is to identify key drivers of satisfaction, track performance KPIs
 - presentation: Final project presentation
 
 ## Project Status
-Week 1 – Use Case & Business Understanding completed.
-
+Week 2 – Data Preparation & ETL.
